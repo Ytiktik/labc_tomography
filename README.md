@@ -1,2 +1,4 @@
 # labc_tomography
-quantum tomography for labc course 
+This project contains the software analysis made for the Quantum Tricks with Classical Tools: Tomography and Bell Tests Made Simple Using Classical Optics paper 
+made for the labc course. 
+
