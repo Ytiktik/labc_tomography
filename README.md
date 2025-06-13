@@ -25,7 +25,7 @@ This project was developed as part of the **Lab C course at Tel Aviv University*
 
 ## Core Class: `Detector`
 
-All parts rely on a shared `Detector` class, which processes video data and identifies "positive" frames based on total frame luminosity.
+All parts rely on the `Detector` class, which processes video data and identifies "positive" frames based on total frame luminosity.
 
 ### Key Features:
 
