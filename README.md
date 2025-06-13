@@ -42,8 +42,8 @@ All parts rely on a shared `Detector` class, which processes video data and iden
 
 ## File Structure
 
-* `notebook_partA.ipynb` – analyzes HH-VV basis density matrix
-* `notebook_partB.ipynb` – analyzes HV-VH basis density matrix
+* `qtm_notebook.ipynb` – analyses used for the paper made of 3 parts. 
+* `Final3DPlotterSaraGarry.m` – 3D visuallization for part A
 * `notebook_partC.ipynb` – analyzes Bell correlations and calculates CHSH $S$ value
 
 ---
