@@ -57,9 +57,6 @@ All parts rely on a shared `Detector` class, which processes video data and iden
 This code is part of a final lab project at Tel Aviv University.
 For questions or reuse, please contact the authors.
 
----
-
-Would you like me to write a BibTeX citation entry for this GitHub repo as well (for your LaTeX paper)?
 
 
 
