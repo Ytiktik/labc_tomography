@@ -15,8 +15,11 @@ This project was developed as part of the **Lab C course at Tel Aviv University*
 * Implemented in Jupyter Notebooks for ease of visualization and interaction.
 * Structured into **three parts (A, B, and C)**:
 
-  * **Part A and B**: Each uses **4 video files**.
-  * **Part C**: Uses **16 video files** (for the full CHSH/Bell parameter analysis).
+  * **Part A and B**: Each uses **4 video files** - calculated densitz matrix.
+  * **Part C**: Uses **16 video files** - for the full CHSH/Bell parameter analysis.
+ 
+  The matlab file attached for this project is for visualization of part A and B.
+  It uses the array of the results of the python notebook to produce a 3D visuallization
 
 ---
 
